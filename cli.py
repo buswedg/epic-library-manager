@@ -11,9 +11,9 @@ MANIFEST_DIR = r"C:\ProgramData\Epic\EpicGamesLauncher\Data\Manifests"
 
 LOCATION_OPTIONS = [
     r"C:\Program Files (x86)\Epic Games\games",
-    r"D:\Games\EpicGames",  # Frequently played
-    r"E:\Games\EpicGames",  # Infrequently played
-    r"Z:\Games\EpicGames"  # Won't play
+    r"D:\Games\Epic Games",  # Frequently played
+    r"E:\Games\Epic Games",  # Infrequently played
+    r"Z:\Games\Epic Games"  # Won't play
 ]
 
 
